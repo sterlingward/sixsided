@@ -1,0 +1,14 @@
+/Users/sterling.com/RiderProjects/sixsided/sixsided/bin/Debug/net9.0/sixsided
+/Users/sterling.com/RiderProjects/sixsided/sixsided/bin/Debug/net9.0/sixsided.deps.json
+/Users/sterling.com/RiderProjects/sixsided/sixsided/bin/Debug/net9.0/sixsided.runtimeconfig.json
+/Users/sterling.com/RiderProjects/sixsided/sixsided/bin/Debug/net9.0/sixsided.dll
+/Users/sterling.com/RiderProjects/sixsided/sixsided/bin/Debug/net9.0/sixsided.pdb
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.AssemblyInfoInputs.cache
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.AssemblyInfo.cs
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.csproj.CoreCompileInputs.cache
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.dll
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/refint/sixsided.dll
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.pdb
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/sixsided.genruntimeconfig.cache
+/Users/sterling.com/RiderProjects/sixsided/sixsided/obj/Debug/net9.0/ref/sixsided.dll
