@@ -1,4 +1,4 @@
-This is just a simple explanation of the code: 
+These are the instructions for the code: 
 
 Write a .NET console application using C# that simulates the rolling of two 6-sided dice (NOTE:
 NOT a one 12-sided die.) Use an array to keep track of the number of times that each
